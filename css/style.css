@@ -1,1 +1,14 @@
 /* Denna fil skall innehålla din CSS kod */
+h1 {
+    background-color: red;
+    display: block;
+    width: 300px;
+    height: 300px;
+}
+.mat {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.mer-mat {
+    color: salmon;
+    width: 50px;
+}
